@@ -1,0 +1,12 @@
+{
+  "name": "mungwa_mansae_2",
+  "displayName": "mungwa_mansae_2",
+  "expo": {
+    "name": "mungwa_mansae_2",
+    "slug": "mungwa_mansae_2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
